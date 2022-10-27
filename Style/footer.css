@@ -1,0 +1,7 @@
+.footerPanel {
+    top: 93%;
+    position: fixed;
+    width: 1920px;
+    height: 60px;
+    background-color: rgb(225, 217, 73);
+}

@@ -1,0 +1,9 @@
+.startNavigation {
+    position: fixed;
+    width: 1920px;
+    height: 80px;
+    background-color: green;
+}
+.startLogo {
+    left: 400px;
+}

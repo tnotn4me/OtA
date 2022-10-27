@@ -1,0 +1,8 @@
+.rightPanel {
+    left: 1628px;
+    top: 90px;
+    position: fixed;
+    width: 250px;
+    height: 774px;
+    background-color: peru;
+}
